@@ -13,3 +13,9 @@ Travelling Salesman Problem
 ![Algorithms CA 100k](https://raw.githubusercontent.com/joeaoregan/Yr3-Algorithms-CA-TSP/master/Screenshots/100k.jpg "2. Algorithms CA 100k")
 ###### 2.100k
 ---
+
+---
+
+## Links
+
+[Travelling Salesperson Problem](http://www.cs.princeton.edu/courses/archive/spr15/cos126/assignments/tsp.html)
